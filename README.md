@@ -14,7 +14,7 @@ This repository contains the solution to the Frontend Developer Assessment task.
 
 ## Live Demo
 The project has been deployed on Vercel. You can access it via the link below:  
-[Live Demo Link](#) (Replace `#` with the actual Vercel URL)
+[Live Demo Link](#) (https://registerkaro-practice.vercel.app/)
 
 ---
 
