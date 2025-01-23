@@ -30,10 +30,10 @@ The project has been deployed on Vercel. You can access it via the link below:
 The project achieves the following PageSpeed Insights scores:
 
 ### Mobile
-![Mobile Score](./src/assets/ScreenshotMobile)
+![Mobile Score](./src/assets/ScreenshotMobile.png)
 
 ### Desktop
-![Desktop Score](./src/assets/ScreenshotDesktop)
+![Desktop Score](./src/assets/ScreenshotDesktop.png)
 
 The screenshots are located in the `performance-screenshots` folder within this repository.
 
