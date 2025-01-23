@@ -1,0 +1,80 @@
+.WelcomeBottom_Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.WelcomeBottompage_head {
+    color: rgba(235, 141, 21, 1);
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    padding: 20px 0px;
+}
+
+.WelcomeBottompage_heading {
+    color: rgba(255, 162, 41, 1);
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding: 20px 0px;
+
+}
+
+.WelcomeBottompage_para {
+    color: rgba(13, 18, 22, 1);
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    padding: 20px 0px;
+
+}
+
+.WelcomBottom_button {
+    background-color: rgba(28, 70, 112, 1);
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    padding: 8px 20px;
+}
+
+.WelcomeBottom_Left {
+    width: 45%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.WelcomeBottom_Right {
+    width: 55%;
+}
+
+.WelcomeBottom_Right img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px){
+
+
+    .WelcomeBottom_Container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 40px;
+    }
+    .WelcomeBottom_Right {
+        width: 90%;
+    }
+
+    .WelcomeBottom_Left {
+        width: 90%;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
